@@ -23,8 +23,10 @@ body {
 	justify-content: center;
 	align-items: center;
 	max-width: 1200px;
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 .titulo-principal {   		/*alinhando texto a esquerda */
