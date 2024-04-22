@@ -18,9 +18,9 @@ body {
 	}	
 
 .conteudo-principal { 
-	display: flex;
+	display: inline-block;
 	flex-direction: column;
-	justify-content: center;
+	justify-content: space-evenly;
 	align-items: center;
 	max-width: 1200px;
 	width: 80%;
