@@ -24,9 +24,8 @@ body {
 	align-items: center;
 	max-width: 1200px;
 	width: 100%;
-	margin: 0 auto;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 .titulo-principal {   		/*alinhando texto a esquerda */
